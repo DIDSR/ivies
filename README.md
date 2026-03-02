@@ -44,7 +44,7 @@ https://www.mathworks.com/products/compiler/matlab-runtime.html
 
 Download the IVIES app:
 
-- Visit https://github.com/DIDSR/ivies/bin
+- Visit [https://github.com/DIDSR/ivies/bin](https://github.com/DIDSR/ivies/tree/main/bin)
 - Download the executable file: `IVIES_02202026.exe`
 - Save the file to a convenient location on the computer
 - No installation required - the application runs directly from the executable
